@@ -3,6 +3,7 @@ package it.progetto.supermarket.vo;
 public class Prodotto {
 
 	private int id;
+	private int idp;
 	private String marca; 
 	private int prezzo;
 	private String nome;
