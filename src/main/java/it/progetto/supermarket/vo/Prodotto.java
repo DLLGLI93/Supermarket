@@ -1,4 +1,4 @@
-package it.supermarket.vo;
+package it.progetto.supermarket.vo;
 
 public class Prodotto {
 
